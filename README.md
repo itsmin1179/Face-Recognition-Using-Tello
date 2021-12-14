@@ -61,3 +61,13 @@ When you run the code, you will see a green circle in the center of the screen a
 #### Points to note
 
 Since the model we used is small and light in size, it is impossible to properly control it by the wind when testing it outside, so please take this into account.
+
+
+
+### Running video
+---
+
+[![드론영상1](https://img.youtube.com/vi/4ZNvz84VUB0/0.jpg)](https://www.youtube.com/4ZNvz84VUB0=0s) 
+
+
+[![드론영상2](https://img.youtube.com/vi/_B_out6IOGs/0.jpg)](https://www.youtube.com/_B_out6IOGs=0s) 
